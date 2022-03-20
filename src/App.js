@@ -197,7 +197,7 @@ class App extends React.Component {
                       </InfoWindow>
                       <Marker />
 
-                      {/* 검색창 */}
+                      {/* 검색창*/}
                       <Autocomplete
                           style={{
                               width: '100%',
